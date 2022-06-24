@@ -1,5 +1,5 @@
 # Supra Mayro Kratt (Decompile)
- An (almost) fully functional decompilation of [Supra Mayro Kratt](https://www.youtube.com/watch?v=mWFL-3PbV5U).
+ An [(almost)](https://github.com/CroissantMcN/SupraMayroKratt#known-issues) fully functional decompilation of [Supra Mayro Kratt](https://www.youtube.com/watch?v=mWFL-3PbV5U).
  ![Screenshot](https://github.com/CroissantMcN/SupraMayroKratt/blob/main/Screenshot.png)
 ## Requirements
 - A pc from 2065
